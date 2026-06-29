@@ -1,0 +1,201 @@
+canonical_identifier: bkk:krp/KR3ep045/v1
+canonical_location: https://kanripo.org/bkk/KR3ep045/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 竹亭醫案
+  identifiers:
+    krp: KR3ep045
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep045.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep045_000.yaml, hash: 'sha256:97cebeeb1e2c9b8d68b4bd31290368bf1ef7dcd72d8707cebf408f946d19bd6b'}
+  - {seq: 1, filename: KR3ep045_001.yaml, hash: 'sha256:3438fd0dbb7a488ce1ef8401367c43b354c08ec7c637c57f523a728e0ebc4e4b'}
+  - {seq: 2, filename: KR3ep045_002.yaml, hash: 'sha256:2029d201d733d4b17767907378962fb5de7cad37026efddad9a2a7d12a13fa8f'}
+  - {seq: 3, filename: KR3ep045_003.yaml, hash: 'sha256:4b5d7cfca642db120240e55bbd9a5529f46e3f66a29438882d3c07228774ec35'}
+  - {seq: 4, filename: KR3ep045_004.yaml, hash: 'sha256:4b691c34590dcd916eb038bcc75406f51446dad044d5318e56b2ac81888bb02d'}
+  - {seq: 5, filename: KR3ep045_005.yaml, hash: 'sha256:d6f8acf42a56e06e6b504ab9dcf52f6f29425a5fddca4777dcd94f0799028b91'}
+  - {seq: 6, filename: KR3ep045_006.yaml, hash: 'sha256:5c75c1b03742404c8ab4211a9665ab7475265913030159ad7def799ab11d4219'}
+  - {seq: 1, filename: KR3ep045_001.yaml, hash: 'sha256:3438fd0dbb7a488ce1ef8401367c43b354c08ec7c637c57f523a728e0ebc4e4b'}
+  - {seq: 2, filename: KR3ep045_002.yaml, hash: 'sha256:2029d201d733d4b17767907378962fb5de7cad37026efddad9a2a7d12a13fa8f'}
+  - {seq: 3, filename: KR3ep045_003.yaml, hash: 'sha256:4b5d7cfca642db120240e55bbd9a5529f46e3f66a29438882d3c07228774ec35'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep045_000.markers.yaml, hash: 'sha256:0b188505ecb538be5d21a03452fc591fba409f4ad02b48eb1fc51830942e2422'}
+  - {seq: 1, role: markers, filename: assets/KR3ep045_001.markers.yaml, hash: 'sha256:ca43ed9e0b93d8264a246bfc8737ff37f27f1e0ea668765a6172f9a484d06c82'}
+  - {seq: 2, role: markers, filename: assets/KR3ep045_002.markers.yaml, hash: 'sha256:9b0d500a1ff1d730d9ae09ac99eaf6761b7a5c3524c28c3d788ef5530384b1ac'}
+  - {seq: 3, role: markers, filename: assets/KR3ep045_003.markers.yaml, hash: 'sha256:04b2fb47404fd8b2c669bc4d3ab163eccd6f68e8b4b09e01e33750de5827819a'}
+  - {seq: 4, role: markers, filename: assets/KR3ep045_004.markers.yaml, hash: 'sha256:7a5ae6f3fe23d32169dfcdd526caa8f579af457870cc43906364fc01efbebd7c'}
+  - {seq: 5, role: markers, filename: assets/KR3ep045_005.markers.yaml, hash: 'sha256:ca601526089a5664d615cf11ec03488a3449fd5fc9d9a2afedf7d09bea076f9d'}
+  - {seq: 6, role: markers, filename: assets/KR3ep045_006.markers.yaml, hash: 'sha256:f055fd1ab8290ec06aa152816f02c9d57850c6c145a0d7a4d136a3492cabfdef'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep045_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 343
+  label: 顧大田序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep045_jc_000-d3.h1s1
+    span:
+    - front
+    - 343
+    - 558
+  label: 沈鳳生序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep045_jc_000-d4.h1s1
+    span:
+    - front
+    - 558
+    - 684
+  label: 卓序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep045_jc_000-d5.h1s1
+    span:
+    - front
+    - 684
+    - 1115
+  label: 李夢蓉序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep045_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 16206
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep045_jc_002-d7.h1s1
+    span:
+    - body
+    - 0
+    - 15780
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep045_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 31515
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep045_jc_004-d9.h1s1
+    span:
+    - body
+    - 0
+    - 31154
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ep045_jc_005-d10.h1s1
+    span:
+    - body
+    - 0
+    - 30992
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ep045_jc_006-d11.h1s1
+    span:
+    - body
+    - 0
+    - 31204
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep045_jc_001-d12.h1s1
+    span:
+    - body
+    - 0
+    - 31926
+  label: 竹亭醫案女科卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep045_jc_001-d12d10
+    span:
+    - body
+    - 159
+    - 31926
+  label: 婦女經產雜症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep045_jc_002-d13.h1s1
+    span:
+    - body
+    - 0
+    - 31574
+  label: 竹亭醫案女科卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep045_jc_002-d13d2
+    span:
+    - body
+    - 8
+    - 31574
+  label: 婦女經產雜症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep045_jc_003-d14.h1s1
+    span:
+    - body
+    - 0
+    - 30753
+  label: 竹亭醫案女科卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep045_jc_003-d14d1354
+    span:
+    - body
+    - 29020
+    - 30753
+  label: 附案計五案
+  type: section
+  level: 2
+hash: sha256:d57f933f3d165661cd81e8f4548248510c98416af4a9b7f5c020b1fe041afdda
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

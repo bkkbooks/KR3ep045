@@ -16,7 +16,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep045_000.yaml, hash: 'sha256:97cebeeb1e2c9b8d68b4bd31290368bf1ef7dcd72d8707cebf408f946d19bd6b'}
+  - {seq: 0, filename: KR3ep045_000.yaml, hash: 'sha256:903f325ab58cd6a548481206947d7d70d7bbc0d41da9aedf52a19bc661bf4078'}
   - {seq: 1, filename: KR3ep045_001.yaml, hash: 'sha256:95ba2837db6ccdfe92d28e2aa7c4ca4b459d38da4a85f4b0753de69b506f7864'}
   - {seq: 2, filename: KR3ep045_002.yaml, hash: 'sha256:650d78b0c8427c07a0ff71d256924100aed84ff701e2d6dba91a0e531afda9c4'}
   - {seq: 3, filename: KR3ep045_003.yaml, hash: 'sha256:b14bb507c8a87660f485fb428331eebc151983768515fd933826eeece7036999'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 2, filename: KR3ep045_002.yaml, hash: 'sha256:650d78b0c8427c07a0ff71d256924100aed84ff701e2d6dba91a0e531afda9c4'}
   - {seq: 3, filename: KR3ep045_003.yaml, hash: 'sha256:b14bb507c8a87660f485fb428331eebc151983768515fd933826eeece7036999'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep045_000.markers.yaml, hash: 'sha256:7230b0796d8d4504d771427b0ab129d9339862eec58ca6f7f31bd17ee6c593d1'}
+  - {seq: 0, role: markers, filename: assets/KR3ep045_000.markers.yaml, hash: 'sha256:bddd21929399f6893377111859477c34f97f0f1fdf65711326aa9ad87913dfec'}
   - {seq: 1, role: markers, filename: assets/KR3ep045_001.markers.yaml, hash: 'sha256:b12ea84d08b3e39eecafd55758cecb94bc165b7c49ee79c7439124ff5c0c91ac'}
   - {seq: 2, role: markers, filename: assets/KR3ep045_002.markers.yaml, hash: 'sha256:4bbbbb3d0ba7fc9534ae90ccb7718f2fcdde469e29e20b35251ff1095a33d93c'}
   - {seq: 3, role: markers, filename: assets/KR3ep045_003.markers.yaml, hash: 'sha256:d57c51816c775b32d03a86dc11d977d1c7dcc63a66cbdeda16d2d03bb20a85cd'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep045_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 343
   label: 顧大田序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep045_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 343
     - 558
   label: 沈鳳生序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep045_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 558
     - 684
   label: 卓序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep045_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 684
     - 1115
   label: 李夢蓉序
@@ -195,7 +195,7 @@ table_of_contents:
   label: 附案計五案
   type: section
   level: 2
-hash: sha256:a3a5a54ec85a287c80dc5c4a73dfcb0a3db49a9a2fa257bb42a95704079d4aec
+hash: sha256:5cbc5587fe4c18a01cec40917fe72d8ca2575a60507b2e647443d912ebaa4758
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
